@@ -2,7 +2,7 @@
 // added GPT-4o-mini
 
 // Enter you OpenAI API Key here between the quotes
-const API_KEY = ''
+const API_KEY = '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'
 
 // You can change this if you want - we want to ask a simple question to test the API
 const PROMPT = "Describe the view from the second tallest mountain in the world?"
